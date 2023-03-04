@@ -4322,7 +4322,7 @@
                               ne({
                                 url: "http"
                                   .concat(H.http ? "" : "s", "://")
-                                  .concat(H.domain)
+                                  .concat("buildinamsterdam.com")
                                   .concat(
                                     A.addBasePath(
                                       ""
